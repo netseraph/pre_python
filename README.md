@@ -1,1 +1,3 @@
-用于公共数据的传递
+# Python 环境准备
+replace_source_aliyun 将python的源更换为aliyun
+replace_source_ustc 将python的源更换为ustc
